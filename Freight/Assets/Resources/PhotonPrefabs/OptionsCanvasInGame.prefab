@@ -2951,8 +2951,8 @@ MonoBehaviour:
   GameplayTab: {fileID: 1824027416884653814}
   ControlsTab: {fileID: 1824027417588921532}
   AudioTab: {fileID: 1824027418282254588}
-  DisplayTab: {fileID: 0}
-  mouseSensibilitySlider: {fileID: 0}
+  DisplayTab: {fileID: 9106864977400403246}
+  mouseSensibilitySlider: {fileID: 1824027417177710462}
   SaveSettings: {fileID: 0}
 --- !u!114 &1824027418061061392
 MonoBehaviour:
@@ -5814,6 +5814,12 @@ PrefabInstance:
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 3a6d3d199d57cd442a8a7f1dd2135891, type: 3}
+--- !u!1 &9106864977400403246 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 5375754781289285718, guid: 3a6d3d199d57cd442a8a7f1dd2135891,
+    type: 3}
+  m_PrefabInstance: {fileID: 3816960179975396728}
+  m_PrefabAsset: {fileID: 0}
 --- !u!4 &9106864977400403249 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 5375754781289285705, guid: 3a6d3d199d57cd442a8a7f1dd2135891,
