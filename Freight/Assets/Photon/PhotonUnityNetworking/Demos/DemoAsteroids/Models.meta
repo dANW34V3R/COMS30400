@@ -1,5 +1,9 @@
 fileFormatVersion: 2
+<<<<<<< HEAD:Freight/Assets/Photon/PhotonUnityNetworking/Demos/DemoAsteroids/Models.meta
 guid: ffc8b1d9f846b0f4d9e60bafe6e61a83
+=======
+guid: ba2864103e01f314ea38adcd3cf9ce08
+>>>>>>> omarinio/mergingBACK:Freight/Assets/Scenes/TrainStationPun_Profiles.meta
 folderAsset: yes
 DefaultImporter:
   externalObjects: {}

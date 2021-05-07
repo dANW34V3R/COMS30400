@@ -1,5 +1,13 @@
 fileFormatVersion: 2
+<<<<<<< HEAD
+<<<<<<<< HEAD:Freight/Assets/Scenes/TrainStationPun/NavMesh-NavMesh Surface.asset.meta
 guid: 9250a7b05451c2a03b117c22391c4114
+========
+guid: bac3e9af2ef2ce842a591289e934ece1
+>>>>>>>> omarinio/mergingBACK:Freight/Assets/Scenes/TrainStationPun/NavMesh-NavMesh.asset.meta
+=======
+guid: 252bc56fca98d67489989eee1241e0d7
+>>>>>>> omarinio/mergingBACK
 NativeFormatImporter:
   externalObjects: {}
   mainObjectFileID: 0
