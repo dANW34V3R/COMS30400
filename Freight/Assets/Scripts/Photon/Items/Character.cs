@@ -184,7 +184,8 @@ public class Character : MonoBehaviourPunCallbacks, IPunOwnershipCallbacks
         GetComponent<IkBehaviour>().ikActive = false;
         currentHeldItem = null;
         Item.ResetItemConditions(this);
-        actualCamera.transform.GetChild(0).gameObject.SetActive(false);
+        // actualCamera.transform.GetChild(0).gameObject.SetActive(false);
+        crosshair.ResetPosition();
         photonView.RPC("ThrowRPC", RpcTarget.All, Item.transform.GetComponent<PhotonView>().ViewID);
     }
 
